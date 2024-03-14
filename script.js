@@ -9,7 +9,7 @@ page1Content.addEventListener("mousemove",function(dets){
 
 page1Content.addEventListener("mouseenter",function(){
     gsap.to(cursor,{
-        scale:1,
+        scale:2,
         opacity:1
     })
 })
